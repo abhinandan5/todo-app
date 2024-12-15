@@ -6,6 +6,10 @@ This project is a simple Todo application built using React, Tailwind CSS, and J
 - Add new Todos.
 - Edit existing Todos.
 
+## Screenshots
+
+![Todo App Screenshot](photos/HomePage.png)
+
 ## Features
 
 - Dynamic fetching and updating of Todos using context and state management.
