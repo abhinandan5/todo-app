@@ -8,7 +8,7 @@ This project is a simple Todo application built using React, Tailwind CSS, and J
 
 ## Screenshots
 
-![Todo App Screenshot](photos/HomePage.png)
+!(photos/HomePage.png)
 
 ## Features
 
